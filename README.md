@@ -16,16 +16,16 @@ Broadly, the application will support the following:
 
 | Name                | Roll no. | Email Id                |
 | ------------------- | -------- | ----------------------- |
-| Soham Amit Bharambe | 210264   | sohamb21@iitk.ac.in     |
-| Divyansh            | 210355   | divyansh21@iitk.ac.in   |
-| Divyansh Chhabria   | 210356   | divyanshc21@iitk.ac.in  |
-| Jhalak Sharma       | 210474   | jhalak21@iitk.ac.in     |
-| Kriti               | 210534   | kriti21@iitk.ac.in      |
-| Kumar Harsh Mohan   | 210543   | harshmohan21@iitk.ac.in |
-| Labajyoti Das       | 210552   | labajyoti21@iitk.ac.in  |
-| Pranjal Singh       | 210744   | psingh21@iitk.ac.in     |
-| Rajeev Kumar        | 210815   | rajeevks21@iitk.ac.in   |
-| Sandeep Nitharwal   | 210921   | nsandeep21@iitk.ac.in   |
+| Soham Amit Bharambe | 220264   | sohamb22@iitk.ac.in     |
+| Divyansh            | 220355   | divyansh22@iitk.ac.in   |
+| Ayush Sahu          | 220271   | sayush22@iitk.ac.in     |
+| Jhalak Sharma       | 220474   | jhalak22@iitk.ac.in     |
+| Kriti               | 220534   | kriti22@iitk.ac.in      |
+| Kumar Harsh Mohan   | 220543   | harshmohan22@iitk.ac.in |
+| Labajyoti Das       | 220552   | labajyoti22@iitk.ac.in  |
+| Pranjal Singh       | 220744   | psingh22@iitk.ac.in     |
+| Rajeev Kumar        | 220815   | rajeevks22@iitk.ac.in   |
+| Sandeep Nitharwal   | 220921   | nsandeep22@iitk.ac.in   |
 
 ## Deployment
 
